@@ -1,0 +1,24 @@
+# Data Directory Structure
+
+## File Organization
+
+| Directory       | Content Description                  | Key Files Example                     |
+|-----------------|--------------------------------------|---------------------------------------|
+| `01_growth/`    | Body measurements and weight data    | `growth_measures.xlsx`                |
+| `02_behavior/`  | Behavioral observations              | `behavior_cross_sucking.xlsx`         |
+| `03_environment/` | Climate and THI records            | `environment_thi_records.xlsx`        |
+| `04_feeding/`   | Feeding and water intake data        | `feeding_water_intake.xlsx`           |
+
+## Naming Convention
+Files follow: `[domain]_[content]_[detail].xlsx`
+
+- **Domain**: 
+  - `growth`: Body measurements
+  - `behavior`: Animal behavior
+  - `environment`: Climate data
+  - `feeding`: Nutrition intake
+
+- **Content**: 
+  - `measures`: Quantitative data
+  - `scan`: Time-based observations
+  - `events`: Discrete occurrences
