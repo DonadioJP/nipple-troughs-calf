@@ -1,4 +1,4 @@
-# Effect of Nipple Water Troughs on Cross-Sucking in Dairy Calves  
+# Nipple Water Troughs Reduces Cross-Sucking in Dairy Calves  
 
 ![Example Visualization]()  
 *(Example figure from the manuscript: Frequency of cross-sucking by body part.)*
