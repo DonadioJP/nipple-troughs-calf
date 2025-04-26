@@ -31,11 +31,11 @@ nipple-troughs-calf-welfare/
 
 ├── figures/              # Manuscript figures
 
-├── docs/                 # Quarto report and Manuscript
-
 ├── LICENSE               # MIT License
 
 └── README.md
+
+└── Manuscript.qmd
 
 ---
 
