@@ -1,6 +1,8 @@
 # Nipple Water Troughs Reduces Cross-Sucking in Dairy Calves  
 
-![Example Visualization](figures/Calves_water.png)
+<div align="left">
+  <img src="figures/Calves_water.png" alt="Calves" width="400"/>
+</div>
 
 ## 📜 Study Overview  
 This project evaluated how nipple water troughs influence cross-sucking behavior and growth in group-housed dairy calves raised on pasture.
