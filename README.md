@@ -1,9 +1,11 @@
 # Nipple Water Troughs Reduces Cross-Sucking in Dairy Calves  
 
-![Example Visualization](figures/Calves_water.png)  
+![Example Visualization](figures/Calves_water.png)
 
 ## 📜 Study Overview  
-This project evaluated how nipple-based water troughs influence cross-sucking behavior and growth in group-housed dairy calves raised on pasture. Key findings include:  
+This project evaluated how nipple water troughs influence cross-sucking behavior and growth in group-housed dairy calves raised on pasture.
+
+Key findings include:  
 - **42% reduction in cross-sucking** in calves with nipple access vs. open troughs (*p* = 0.003).  
 - **No negative impact on growth** (weaning weights: *p* = 0.788).  
 - Behavioral shifts: Longer water trough visits and nighttime water intake in nipple-equipped calves.  
@@ -14,21 +16,20 @@ This project evaluated how nipple-based water troughs influence cross-sucking be
 
 ## 🗂️ Repository Structure 
 nipple-troughs-calf-welfare/
-├── data/                 # Raw/processed data
 
-│   ├── raw/              # Original behavioral scans
-
-│   └── processed/        # Cleaned datasets
+├── data/                 # Field collected data
 
 ├── scripts/
 
-│   ├── analysis.R        # GLMMs
+│   ├── cleaning.R        # Data organization
 
-│   └── visualization.R   # ggplot2 figures
+│   ├── analysis.R        # Exploratory and statistical analysis
+
+│   └── visualization.R   # figures ellaboration
 
 ├── figures/              # Manuscript figures
 
-├── docs/                 # Quarto report
+├── docs/                 # Quarto report and Manuscript
 
 ├── LICENSE               # MIT License
 
@@ -43,22 +44,12 @@ nipple-troughs-calf-welfare/
 | Event duration (sec)  | 38.0 ± 43.5      | 64.8 ± 57.8    | 0.028     |  
 | Weaning weight (kg)   | 62.1 ± 11.2      | 62.7 ± 9.6     | 0.788     |  
 
-*(Full results available in the manuscript.)*
-
 ---
 
-## 🛠️ Skills & Tools Demonstrated  
-- **Statistical Analysis**: GLMMs (`lme4`), Poisson/Gamma distributions, AIC validation.  
-- **Data Visualization**: Heatmaps (temporal behavior), bar plots, growth curves (`ggplot2`).  
-- **Reproducibility**: R scripts, raw/processed data (where shareable), pre-registered methods.  
-- **Domain Expertise**: Dairy calf welfare, pasture-based systems, practical trade-off analysis.  
+## 🛠️ Skills & Tools
+- **Statistical Analysis**: GLMMs, Poisson/Gamma distributions, AIC validation. 
+- **Data Visualization**: Heatmaps (temporal behavior), plots, growth curves.
+- **Reproducibility**: Methods, Collected data, R scripts, Manuscript.
+- **Domain Expertise**: Dairy calf behavior, pasture-based systems, Abnormal behaviors.
 
 ---
-
-## 🚀 How to Use This Repository  
-1. **Reproduce analysis**:  
-   ```bash
-   Rscript scripts/analysis.R  # Runs statistical models  
-   Rscript scripts/visualization.R  # Generates figures
-   ```
-   
