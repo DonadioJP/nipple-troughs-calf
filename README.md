@@ -15,16 +15,24 @@ This project evaluated how nipple-based water troughs influence cross-sucking be
 ## 🗂️ Repository Structure 
 nipple-troughs-calf-welfare/
 ├── data/                 # Raw/processed data
-│   ├── raw/              # Original behavioral scans
-│   └── processed/        # Cleaned datasets
-├── scripts/
-│   ├── analysis.R        # GLMMs
-│   └── visualization.R   # ggplot2 figures
-├── figures/              # Manuscript figures
-├── docs/                 # Quarto report
-├── LICENSE               # MIT License
-└── README.md
 
+│   ├── raw/              # Original behavioral scans
+
+│   └── processed/        # Cleaned datasets
+
+├── scripts/
+
+│   ├── analysis.R        # GLMMs
+
+│   └── visualization.R   # ggplot2 figures
+
+├── figures/              # Manuscript figures
+
+├── docs/                 # Quarto report
+
+├── LICENSE               # MIT License
+
+└── README.md
 
 ---
 
