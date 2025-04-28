@@ -21,13 +21,7 @@ nipple-troughs-calf-welfare/
 
 ├── data/                 # Field collected data
 
-├── scripts/
-
-│   ├── cleaning.R        # Data organization
-
-│   ├── analysis.R        # Exploratory and statistical analysis
-
-│   └── visualization.R   # figures ellaboration
+├── scripts/              # R scripts
 
 ├── figures/              # Manuscript figures
 
@@ -37,7 +31,9 @@ nipple-troughs-calf-welfare/
 
 ├── Manuscript.qmd
 
-└── references.bib
+├── Manuscript.pdf
+
+└── references1.bib
 
 ---
 
