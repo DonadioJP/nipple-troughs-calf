@@ -29,6 +29,8 @@ nipple-troughs-calf-welfare/
 
 ├── README.md
 
+├── Highlights_dashboard.Rmd
+
 ├── Manuscript.qmd
 
 ├── Manuscript.pdf
