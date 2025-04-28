@@ -5,7 +5,7 @@
 </div>
 
 ## 📜 Study Overview  
-This project evaluated how nipple water troughs influence cross-sucking behavior and growth in group-housed dairy calves raised on pasture.
+This research, conducted during my Master's degree, evaluated how nipple water troughs affect cross-sucking behavior and growth performance in pasture-raised, group-housed dairy calves.
 
 Key findings include:  
 - **42% reduction in cross-sucking** in calves with nipple access vs. open troughs (*p* = 0.003).  
