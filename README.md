@@ -59,8 +59,7 @@ nipple-troughs-calf-welfare/
 | **Teresa Cristina Alves**<br>(T.C. Alves) | Embrapa Pecuária Sudeste | • Study design<br>• Field data collection<br>• Critical manuscript revision |
 | **Maria José Hötzel**<br>(M.J. Hötzel) | Laboratório de Etologia Aplicada e Bem-estar Animal, UFSC | • Study design<br>• Critical manuscript revision<br> |
 | **Matheus Deniz***<br>(M. Deniz) | Dairy Cattle Study Group, FMVZ, Unesp Botucatu | • Study design<br>• Data analysis/interpretation<br>• Manuscript revision<br>• Corresponding author |
-
-**Correspondence**: 📧 m.deniz@unesp.br | 📞 +55 (14) 3880-2954  
+|**Correspondence**: | m.deniz@unesp.br | 📞 +55 (14) 3880-2954  
 
 ---
 
