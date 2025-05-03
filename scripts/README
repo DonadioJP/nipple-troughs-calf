@@ -2,11 +2,11 @@
 scripts/
 ├── 00_config.R          
 ├── 01_data_cleaning.R   
-├── 02_climate_analysis.R
-├── 03_growth_analysis.R
-├── 04_behavior_analysis.R
+├── 02_growth_analysis.R
+├── 03_behavior_analysis.R
+├── 04_cross_sucking_analysis.R
 ├── 05_water_analysis.R
 ├── 06_feed_analysis.R
-└── 07_cross_sucking_analysis.R
+└── 07_climate_analysis.R
 
 
