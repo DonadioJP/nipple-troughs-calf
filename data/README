@@ -13,10 +13,10 @@
 Files follow: `[domain]_[content]_[detail].xlsx`
 
 - **Domain**: 
-  - `growth`: Body measurements
-  - `behavior`: Animal behavior
+  - `growth`: Weight gain and Body measurements
+  - `behavior`: Animal behavior (Active, Lying, Cross-sucking)
   - `environment`: Climate data
-  - `feeding`: Nutrition intake
+  - `feeding`: Nutrition intake (Water and Feed intake)
 
 - **Content**: 
   - `measures`: Quantitative data
