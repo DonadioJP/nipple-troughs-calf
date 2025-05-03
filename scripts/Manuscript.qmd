@@ -1,0 +1,233 @@
+---
+title: "The use of nipple water trough for group-housed dairy calves reduces cross-sucking"
+format:
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{tikz}
+        \usepackage{eso-pic}
+        \AddToShipoutPictureBG{%
+          \begin{tikzpicture}[remember picture,overlay]
+            \node[rotate=45,scale=10,text=red!30,font=\bfseries] 
+              at (current page.center) {Draft Version};
+          \end{tikzpicture}
+        }
+bibliography: references1.bib
+---
+
+**João Pedro Donadio**$^{1,2}$, **Karolini Tenffen De-Sousa**$^{1,3}$, **Teresa Cristina Alves**$^{4}$, **Maria José Hôtzel**$^{5}$, **Matheus Deniz**$^{1,\ast}$
+
+$^{1}$Grupo de Estudos em Bovinos Leiteiros, Faculdade de Medicina Veterinária e Zootecnia, Universidade Estadual Paulista, Botucatu, São Paulo, Brazil\
+$^{2}$Programa de Pós-Graduação em Zootecnia, Faculdade de Medicina Veterinária e Zootecnia, Universidade Estadual Paulista, Botucatu, São Paulo, Brazil\
+$^{3}$Instituto de Zootecnia, Sertãozinho, São Paulo, Brazil\
+$^{4}$Empresa Brasileira de Pesquisa Agropecuária, Embrapa Pecuária Sudeste, São Carlos, São Paulo, Brazil\
+$^{5}$Laboratório de Etiologia Aplicada e Bem-Estar Animal, Universidade Federal de Santa Catarina, Florianópolis, Santa Catarina, Brazil
+
+\vspace{0.5cm}
+
+\*Correspondence: m.deniz\@unesp.br \| Telephone: +55 (14) 3880-2954
+
+## "This is a preprint version of the manuscript and has not been certified by peer review."
+
+# Research Highlights
+
+• Providing a nipple water trough reduces the frequency and duration of cross-sucking in pre-weaned group housed dairy calves.
+
+• Calves with access to nipple water trough spent longer at the water trough
+
+• The water delivery methods did not affect the water intake, feed intake and growth of dairy calves.
+
+# Abstract
+
+Housing calves in groups presents challenges in controlling cross-sucking behaviour. Practices such as cow-calf separation and restricted milk feedings limit natural sucking behaviours and increase cross-sucking frequency. Free access to artificial nipple is a well-established practice for efficiently reducing the frequency of cross-sucking in calves; however, feasible options that simulate the sucking of group-housed calves raised on pasture remain unexplored. This study aimed to evaluate the effect of offering water via nipple on the behaviour and growth of preweaning dairy calves raised on pasture. Twenty-four Holstein x Jersey calves were enrolled in a study that was replicated across multiple time periods. Calves were divided into groups of 3 to either receive water via a nipple water trough (Nipple-WT; n = 12) or in an open water trough (Open-WT; n = 12). All groups (8 groups of 3 calves each) had free access to pasture, starter feed, and shade. Three liters of milk were offered twice daily through nipple buckets for both treatments. Behavioural observations and growth measurements were taken weekly from birth to weaning. Water intake was recorded twice daily for day and nighttime. Cross-sucking was lower (p=0.003) among calves in Nipple-WT than calves in Open-WT. Water intake (L) was unaffected (p=0.164) by the water delivery method. Although there was no difference (p=0.724) in the number of visits per day between water delivery methods, calves in Nipple-WT (1.93 ± 2.10 min) spent longer per visit (p=0.001) in the water trough compared to calves in Open-WT (1.29 ± 1.27 min). Calves in Nipple-WT drank more water (p\<0.001) during nighttime than daytime. Calves' behaviour was not affected by water delivery method but changed over the weeks from birth to weaning. No difference was found in the milk intake duration (p=0.919), number of visits to the starter feeder (p=0.190), duration of eating starter (p=0.239), weaning weight (p=0.788), and average daily gain (p=0.226) between water delivery methods. Our findings indicate that providing water via nipples can satisfy sucking motivation and positively affect calf behaviour, reducing cross-sucking events, while having no effect on growth in group-housed calves raised on pasture.
+
+**Keywords:** calf welfare; applied ethology; environmental enrichment; sucking behaviour.
+
+```{=latex}
+\newpage
+```
+
+# Introduction
+
+Group housing improves calf development and growth [@alejos-de_la_fuente_contribucion_2020; @knauer_effect_2021; @mahendran_effects_2023], while also supporting the expression of natural behaviours that calves are highly motivated to perform, including social bonding [@ede_calves_2022], and play [@bertelsen_does_2019]. Despite the animal welfare advantages, farmers often hesitate to adopt group housing [@mahendran_survey_2022]. One reason may be concerns with calves' engagement in cross-sucking, an abnormal behaviour in which a calf suckles on another calf's body [@fraser_abnormal_1980; @lidfors_intersucking_2003; @margerison_cross-sucking_2003]. This behaviour can lead to injuries and health problems [@mahmoud_impacts_2016] and is probably stimulated by a lack of adequate sucking stimuli [@de_passille_sucking_2001], since in natural conditions calves nurse from their dam and rarely perform cross-sucking [@whalin_preweaning_2022].
+
+Modifications to rearing environments and management strategies have been explored to address cross-sucking behaviour (see review: @welk_invited_2023). A well-established approach is the use of nipple-based feeders instead of open buckets for milk feeding. Nipple-based feeders reward calves with milk when they perform sucking behaviour, which in turn has been shown to effectively decrease cross-sucking frequency [@jensen_effects_2006; @loberg_effect_2001; @reipurth_effect_2020; @salter_milk-_2021]. Offering a dry teat also encourages natural suckling behaviour and help reduce cross-sucking frequency [@jensen_effects_2003; @ude_reducing_2011]. Calves prefer nutritive sucking over non-nutritive sucking [@hammell_sucking_1988; @veissier_review_2024]. It is important to note that the need for sucking persists regardless of milk satiation [@hammell_sucking_1988; @de_passille_cross-sucking_2011; @grosbacher_-farm_2018]. However, providing free access to a nipple may help calves satisfy this natural urge whenever they feel the need.
+
+Providing free access to milk in outdoor rearing systems presents logistical and economic challenges, particularly regarding refrigeration and cleaning management. This limitation underscores the need for alternative approaches to stimulate calves' sucking behaviour, as outdoor calf-rearing systems offer numerous benefits, including access to a complex and natural environment [@alves_pasture_2024], improved health outcomes [@lorenz_calf_2011; @wojcik_comparison_2013] and reduced fearfulness [@field_early-life_2024], compared to conventional indoor systems. Therefore, offering water through nipples could be a practical alternative to satisfy calves' natural motivation to suck, allowing them to perform this behaviour throughout the day. So far, the literature reports on water delivery via nipples has been focused on individually housed calves in indoor environments [@broucek_effect_2019; @hepola_effects_2008]. A knowledge gap was identified regarding the impacts of this method on more complex early-life management systems such as group housing and outdoor rearing. We hypothesized that providing water through nipple water troughs would stimulate natural sucking behaviour and reduce the cross-sucking frequency in pre-weaning dairy calves. Therefore, this study aimed to evaluate the effects of offering water via nipples on the behaviour and growth of group-housed dairy calves raised on pasture during the pre-weaning period.
+
+# Materials and methods
+
+This study was approved by the Ethics Committee on Animal Use of the *Embrapa Pecuária Sudeste* under protocol number 03/2023. All management procedures followed animal welfare guidelines and were conducted by São Paulo State Law No. 11.977.
+
+## Location and thermal environment
+
+The experiment was carried out between July 2023 to January 2024 (covering the fall and summer seasons) at *Embrapa Pecuária Sudeste*, São Carlos, São Paulo, Brazil (21º97′ S and 47°85′ W, 853 m above sea level). The climate of the region is tropical (Cwa) according to Köppen's classification [@alvares_koppens_2013]. During the experimental period, the average air temperature was 26°C (range: 11°C -- 41°C) and the average relative humidity was 59% (range: 17% -- 100%).
+
+## Experimental area and animal management
+
+At *Embrapa Pecuária Sudeste*, calves are raised on pasture since birth [@alves_pasture_2024]. After birth, the calves were immediately separated from their dam, weighed, and taken to a newborn paddock. The navel was treated with 10% iodine solution twice daily until it dried or detached from the abdomen. Once this procedure was completed, calves, at an average age of 3 ± 2 days (mean ± SD), were assigned to a treatment paddock (Figure 1).
+
+![Figure 1. Schematic representation (not to scale) of the paddock allocation for experimental groups. a) Nipple water trough (Nipple-WT) treatment paddock. b) Open water trough (Open-WT) treatment paddock.](C:/Users/Donadio/Documents/nipple-troughs-calf/figures/figure1.png)
+
+The pasture area was divided into twelve paddocks, each measuring 64 m², managed under a rotational grazing system. Each treatment group was provided with five replicate paddocks for rotation. All paddocks allowed free access to water, grazing pasture (*Cynodon ssp.*), artificial shade provided by a polypropylene screen (north-south direction), commercial calf starter (18% crude protein; 70% ground corn, 25% soybean meal, and 5% mineral salt) and two stationary wooden brushes per paddock (0.40 m long x 0.08 m wide) with flexible bristles (0.11 m long) hanging from a wooden post at a height of 0.6 m from the ground. The starter was provided once daily after the morning milk feeding, with any uneaten portions replaced with fresh feed. Water and starter troughs were cleaned twice a week.
+
+Newborn calves received 3 L colostrum twice on the first day of life through an individual nipple feeder (Milkbar^®^). From the second day of life onwards, calves were fed whole milk (3L) twice a day (8h and 16h) in nipple feeders. Milk feeders were placed in a specific structure 0.6 m above the ground and placed on a support on the opposite side of the water supplier. Milk nipple feeders were cleaned every day after each milk feeding. At week 8 (52 to 58d of age), the amount of milk was gradually reduced (15% per day) over 6 days.
+
+During the study, the calves' health status was checked daily by trained staff at the research station using a standard farm checklist that covers the most common diseases occurring in the system. Clinical signs recorded during each health check included nasal discharge, ocular discharge, cough, faeces fluidity, posture, and any other unusual symptoms. If any health problem was detected, the nutritional management of the animals was maintained, and a veterinarian was consulted for appropriate treatment. Calves receiving veterinary treatment were temporarily separated from the group and excluded from analysis during the treatment period. All clinical cases of illness and treatment of calves were recorded on individually identified forms. Dehydration was assessed by observing the eyes (looking for signs of deepness) and mucous membranes (looking for dryness). If dehydration was observed, electrolyte treatments (2 L) were provided as per standard farm practice.
+
+## Animals and treatments
+
+Twenty-four Holstein x Jersey dairy calves (male and female) were pseudo-randomly assigned \[balanced for birth order [@nogues_can_2023]; birth weight, and sex\] into four blocks (6 calves/block). Within blocks, calves were allocated to either receive water in Open Water-Trough \[Open-WT, three calves per block (n=12); Figure 1a\] or Nipple Water-Trough \[Nipple-WT, three calves per block (n=12); Figure 1b\]. Calves in Open-WT received water by a through made of plastic, with a surface area of 2,750 cm² (diameter of 60 cm); a height of 48 cm, and volumes of 90 L. Calves in Nipple-WT received water through a bucket with 5 nipples with a capacity of 30L in a structure that allowed the nipple to be 45-55 cm high.
+
+## Measurements
+
+### Behaviour
+
+Calves were observed from birth until weaning at 8 weeks of age, with visual behaviour recordings made between 7h and 17h (continuous 10-hour time period) on one day per week. This time block was considered to capture one hour before and after the milk feedings, which usually occur around 8h and 16h, and to focus on the periods when water drinking and cross-sucking events were most likely to occur. The calves' posture (standing or lying down), as well as active, ruminating, and grazing behaviours (Supplementary Table S1), were recorded using scan sampling at 5-minute intervals [@martin_measuring_1986]. Cross-sucking, sucking milk, sucking/drinking water, and eating starter events were recorded continuously whenever they occurred. For cross-sucking events, the executor (calf performing the cross-sucking), the receptor (calf receiving the cross-sucking), the duration of each event, and the body part involved (e.g., belly, ear, or others) were recorded. For each milk meal, the start and end times of each calf were recorded. Each calf's sucking/drinking water and eating starter events were similarly recorded by noting the start and end times of each visit to the water or feed trough. The daily water intake for each group was measured by reading the water meters of each water trough twice a day, at 7h and 19h.
+
+Behaviours were recorded by three trained observers, with each observer monitoring only one group at a time to ensure accuracy and consistency in data collection. Therefore, a maximum of three blocks were observed simultaneously during the data collection period. The observers were not blind to treatment because water delivery methods could not be masked. Inter-observer reliability among observers was tested before the beginning of the data collection. All observers recorded behaviours in live sessions for 3 h across a minimum of 2 days (in a pilot study), and reliability values were taken from these. All possible behaviours were exhibited in the training session and the observers were trained until they reached reliability ≥ 80% (Cohen's Kappa, @gamer_irr_2019), compared with the first author (J.P.D.).
+
+### Growth
+
+Calves were weighed and had their bodies measured once a week, from birth to post-weaning week. A mechanical scale was used to weigh the calves, and the body measurements were obtained with a hypometer and tape ruler [@rashad_impact_2022]. The body measurements collected were chest girth (measured as the circumference behind the wither and shoulders); withers height (measured from the calf's withers to the ground); rump height (measured from the highest point of the croup to the ground); rump width (distance between the iliac tuberosity from one side to the other); rump length (measured as the distance between the ilium and ischium); and body length (measured from the scapulohumeral joint to the coxofemoral joint).
+
+### Statistical analysis
+
+All descriptive and confirmatory analyses were performed in R (version 4.3.2; @team_r_2024) using RStudio. Data from 3 calves were excluded due to health disorders (e.g., death or persistent illness) to remove the confounding effect of missing data [@mahendran_assessing_2017]. The group were used as the experimental unit (n = 4 per treatment), with each group containing 3 calves. The normality and homogeneity of variances for all variables were assessed using the Shapiro-Wilk test, with visual evaluations provided by histograms and Q-Q plots. Generalized linear mixed models (GLMMs) were fitted for each analysed variable, with all analyses including the experimental unit (group) as a random effect. Preliminary models tested the effects of week (age), paddock and sex factors. Factors with p \< 0.10 in the preliminary models were included as a random effect in the final model. The model fit was evaluated using the Akaike Information Criterion (AIC), where a model with a lower AIC was deemed to have a better fit. Additionally, the residuals of the best model were examined for normality and homogeneity using scatter plots and Q-Q plots. All models were adjusted using the maximum likelihood approximation method in the statistical package lme4 [@bates_fitting_2015], and confidence intervals were estimated using Type II Wald chi-square tests. The final models are summarized in Table 1, which provides an overview of their composition. Data were presented as means with respective standard deviations (SD), frequency counts with respective standard errors (SE), incidence rate ratios (IRR) \[the odds of a given event occurring in relation to the reference category (Open-WT)\], and p-values facilitating a comprehensive evaluation of treatment responses.
+
+For the continuous behavioural analysis (cross-sucking events and duration; visits and duration at the feeder and water trough; and duration of milk meals), daily group averages were created by aggregating individual observations into one value per group for each observed week. Behavioural data from 5-minute scans (totalling 960 scans per calf) were averaged, producing one value per group per week for each behaviour variable (active, lying, idle, lying ruminating, ruminating, and grazing).
+
+| Variable | Model and family distribution | Fixed effects | Random effects | Residual Degree of Freedom |
+|---------------|---------------|---------------|---------------|---------------|
+| Cross-sucking events | Poisson (log) | Treatment\*Week | Group | 52 |
+| Duration of cross-sucking events | Gamma (link="log") | Treatment\*Week | Group | 379 |
+| Visits to water trough | Gamma (link="log") | Treatment\*Week | Group | 57 |
+| Duration of visits to water trough | Poisson (log) | Treatment\*Week | Group | 513 |
+| Water intake (L) | Linear Mixed-Effects Model | Treatment, Period of the day, Week | Group | 375 |
+| Visits to starter trough | Poisson (log) | Treatment\*Week | Group | 49 |
+| Duration of visits starter trough | Gamma (link="log") | Treatment\*Week | Group | 374 |
+| Milk intake duration | Gamma (link="log") | Treatment, Period of the day, Week | Group | 312 |
+| Scan behaviour | Gamma (link="log") | Treatment\*Week | Group | 55 |
+| Body weight (Birth and weaning) | Gamma (link="log") | Treatment | Group | 17 |
+| Average daily gain | Gamma (link="log") | Treatment\*Week | Group/Calf ID | 161 |
+| Body measurements | Gamma (link="log") | Treatment\*Week | Group/Calf ID | 180 |
+
+: Table 1. Summary of the Generalized Linear Mixed-effects Model (GLMM) used in the analysis of each variable
+
+# Results
+
+## Cross-sucking
+
+Cross-sucking frequency was lower (p=0.003) among the groups of calves in Nipple-WT (5.04 ± 3.55 events/day/group) than groups in Open-WT (8.63 ± 3.56 events/day/group). The duration of cross-sucking events was lower (p= 0.028) between calves in Nipple-WT (38.0 ± 43.5 s/event) than calves in Open-WT (64.8 ± 57.8 s/event); however, week did not affect (p=0.267) the duration of cross-sucking events. The cross-sucking events in each body part varied between water delivery methods (Figure 2) and the highest frequency of cross-sucking events in both was observed after the milk meals (Figure 3A). The proportion of cross-sucking events performed by each calf was generally balanced between executor and receiver, with six calves consistently assuming a dominant role (\>75%) in this behaviour, three as executors and three as receivers (Supplemental Figure S1).
+
+![Figure 2. Frequency (%) of cross-sucking events performed on different body parts of pre-weaned dairy calves (n=21) under different water delivery methods \[Open water trough (Open-WT) vs. Nipple water trough (Nipple-WT)\]. Circle size represents the relative frequency of cross-sucking events for each body part.](C:/Users/Donadio/Documents/nipple-troughs-calf/figures/figure2.png)
+
+```{r echo=FALSE}
+#| layout-ncol: 2
+
+knitr::include_graphics("C:/Users/Donadio/Documents/nipple-troughs-calf/figures/figure3A.png")
+knitr::include_graphics("C:/Users/Donadio/Documents/nipple-troughs-calf/figures/figure3B.png")
+```
+
+**Figure 3.** Heatmap of cross-sucking event frequency (A) and water trough visit frequency (B) per hour under different water delivery methods \[Open Water Trough (Open-WT) and Nipple Water Trough (Nipple-WT)\].
+
+## Ingestive behaviour
+
+For descriptive purposes, frequencies of calves' visits to the water trough throughout the hours of the day are illustrated in Figure 3B. Calves in Nipple-WT visited the water trough more frequently before the afternoon milk meal, while calves in Open-WT visited more frequently before the morning milk meal. Frequencies of visits to the water trough was similar (p=0.724) between groups in Open-WT (9.81 ± 4.11 visits/day/group) and groups in Nipple-WT (7.41 ± 4.14 visits/day/group). However, calves in Nipple-WT (1.93±2.10 min/visit) spent longer (p=0.001) at the water trough than calves in Open-WT (1.29±1.27 min/visit). There was no effect of the water delivery method on water intake (p = 0.164; Nipple-WT: 4.42 ± 2.84 L/group, Open-WT: 5.19 ± 2.23 L/group). However, water intake was influenced by the week (p = 0.007), with intake increasing as the weeks progressed. Within treatments, calves in Nipple-WT drank more water (p\<0.001) during nighttime (Table 2).
+
+| Treatment | Daytime     | Nighttime   | p-value |
+|-----------|-------------|-------------|---------|
+| Open-WT   | 4.90 ± 1.85 | 5.48 ± 2.54 | 0.092   |
+| Nipple-WT | 3.72 ± 2.32 | 5.12 ± 3.14 | \<0.001 |
+| p-value   | 0.089       | 0.311       |         |
+
+: Table 2. Average ± SD of the water intake (L) per group of calves during preweaning under different water delivery method \[Open water trough (Open-WT; n = 11) vs. Nipple water trough (Nipple-WT; n = 10)\] and period of the day (Daytime vs. Nighttime).
+
+Means followed by p\>0.05 do not differ.
+
+There was no effect of water delivery methods (p=0.919), periods of the day (p=0.466) and week (p=0.189) in the milk intake duration (Nipple-WT - morning: 5.86 ± 1.56 min, afternoon: 5.64 ± 1.59 min; Open-WT - morning: 5.77 ± 1.49 min, afternoon: 5.61 ± 1.45 min). Furthermore, the water delivery method did not influence the frequency of visits to the starter feeder (p=0.190; Nipple-WT: 6.17 ± 3.70 visits/day/group; Open-WT: 7.55 ± 4.43 visits/day/group) and duration of eating starter (p=0.239; Nipple-WT: 1.91 ±1.67 min/visit; Open-WT: 2.00 ± 1.72 min/visit).
+
+## Diurnal behaviour
+
+The frequencies of behaviours performed by calves were not influenced by water delivery methods but varied over weeks of age (Table 3). Lying behaviour was less likely to occur as weeks passed by (IRR=0.951, p=0.002); in contrast, ruminating (IRR=1.236; p\<0.001) lying ruminating (IRR=1.855; p\<0.001), and grazing (IRR = 1.423; p\<0.001) were more likely to occur. Descriptively, calves in both water delivery methods (Open-WT and Nipple-WT) began to graze in the 5^th^ week. However, the calves in Nipple-WT began to ruminate in the 4^th^ week, while calves in Open-WT began in the 5^th^ week. No statistical inference was provided for these outcomes because we did not have any a priori hypotheses.
+
+| Behaviours | Open-WT³ (n=11) (%¹ ± SE²) | Nipple-WT⁴ (n=10) (%¹ ± SE²) | p-value Treatment | p-value Week | p-value Treatment\*Week |
+|------------|------------|------------|------------|------------|------------|
+| Active | 27.73 ± 0.87 | 27.94 ± 0.91 | 0.149 | 0.920 | 0.045 |
+| Lying | 61.60 ± 1.01 | 59.61 ± 1.10 | 0.536 | 0.002 | 0.267 |
+| Idle | 2.80 ± 0.26 | 2.17 ± 0.24 | 0.106 | 0.424 | 0.123 |
+| Ruminating | 0.10 ± 0.04 | 0.16 ± 0.05 | 0.270 | \<0.01 | 0.460 |
+| Lying ruminating | 5.27 ± 0.43 | 7.47 ± 0.53 | 0.576 | \<0.01 | 0.876 |
+| Grazing | 2.50 ± 0.23 | 2.65 ± 0.24 | 0.839 | \<0.01 | 0.771 |
+
+: Table 3. Effect of water delivery method, week, and its interaction on the frequency (% ± standard error, SE) of the behaviour of pre-weaned group-housed dairy calves (n=21) raised on pasture.
+
+¹%= Mean percentage of behavioural scans for each hour (7h to 16:55) and calf (n=21).\
+² SE = Standard error of the mean.\
+³Open-WT = Open water trough.\
+⁴ Nipple-WT = Nipple water trough.\
+Means followed by p\>0.05 do not differ.
+
+## Growth
+
+There was no influence of the water delivery method on calves' body weight at birth (p=0.643), weaning weight (p=0.788), or average daily gain (ADG; p=0.226). Overall, the body weight of calves in Nipple-WT at the birth was 32.2 ± 6.7 kg for Nipple-WT calves, and 30.4 ± 4.8 kg for Open-WT calves; and at the end of the experimental period was 62.1 ± 11.2 kg (ADG: 0.51 ± 0.14 kg/d) for the Nipple-WT calves, and 62.7 ± 9.6 kg (ADG: 0.54 ± 0.15 kg/d) for the Open-WT calves. The body measurements did not differ (p\>0.05) between the water delivery method (Nipple-WT and Open-WT) and the weekly variation in body measurements between groups are shown in Figure 4.
+
+![Figure 4. Body measures parameters (Chest girth; Withers height; Rump height; Rump Width; Rump length; Body length) throughout the experimental period. Points and boxes in red circles refer to calves in Nipple water trough (Nipple-WT), and in blue triangles to calves in Open water trough (Open-WT).](C:/Users/Donadio/Documents/nipple-troughs-calf/figures/figure4.png)
+
+## Health
+
+All calves in the experiment required veterinary intervention for diarrhea, dehydration, or both, including electrolyte supplementation and antibiotics. These cases mainly occurred within the first two weeks of life, with only one calf experiencing prolonged recovery. One calf developed joint swelling, four calves showed symptoms of pneumonia and were treated, and one calf died from Theileria-related disease. Another calf died unexpectedly at 42 days of age. Additionally, calves receiving veterinary treatment were temporarily separated from the group and excluded from analysis during the treatment period.
+
+# Discussion
+
+Our results confirm the hypothesis that providing a nipple water trough (Nipple-WT) stimulates sucking behaviour and reduces the frequency of cross-sucking in pre-weaned group housed dairy calves. Calves in Nipple-WT performed a lower frequency of cross-sucking and spent longer at the water trough compared to calves with access to an open water trough (Open-WT). Oral stimulation may mitigate the tendency to engage in non-nutritive oral behaviours [@de_passille_sucking_2001; @grosbacher_-farm_2018; @margerison_cross-sucking_2003; @ude_reducing_2011] and may reduce the frustration of calves with limited milk access [@de_paula_vieira_behavioural_2008]. Although the duration of cross-sucking events was lowest among calves in Nipple-WT, they still performed cross-sucking events which remains concerning from a welfare perspective. Providing the opportunity to suck on nipples during milk feeding [@hammell_sucking_1988; @salter_milk-_2021] or offering dry teats post-feeding [@ude_reducing_2011; @zhang_effects_2021] has been demonstrated to reduce the underlying motivation to suck [@de_passille_sucking_2001; @loberg_effect_2001]. However, these strategies often result in the highest frequencies of cross-sucking compared to allowing calves access to a nursing cow [@bertelsen_behavior_2023; @field_observations_2023; @margerison_cross-sucking_2003]. This highlights that cow-calf contact may involve cognitive and emotional factors associated with calf's motivation to suck. As the cognitive and emotional components of sucking motivation are aspects that remain underexplored in current research, more research efforts need to be directed at the effects of these factors on the cross-sucking of dairy calves.
+
+Water delivery method did not influence the water intake. However, within the Nipple-WT treatment calves drank more water during nighttime than daytime. When raised in natural conditions, i.e., having contact with their dam on pasture, calves experience a complex dynamic environment [@cantor_current_2019] and distribute their suckling events throughout the day and night [@day_suckling_1987; @hafez_suckling_1968]. Nevertheless, on most commercial farms, calves are typically fed twice a day [@medrano-galarza_survey_2017]. In contrast, calves that have free access to automatic milk feeders distribute the suckling events and present a peak of milk consumption during the nighttime [@jensen_computer-controlled_2004; @miller-cushon_effect_2013]. So, we speculate that calves in the Nipple-WT may have adjusted their drinking behaviour to fulfill their natural sucking needs, potentially as a compensatory response to fixed milk feeding schedules. Alternatively, calves may have increased water intake as a compensatory response to mitigate hunger between feeding periods [@jensen_invited_2021] due to the limited number of milk meals. Therefore, our findings suggest that, under restricted milk programs, an accessible nipple water trough might better support the sucking need of calves throughout the day than an open water trough.
+
+Calves in the Open-WT directed cross-sucking at the navel twice as often as calves in the Nipple-WT, and cross-sucking directed toward the scrotum or udder base was only observed in calves in Open-WT. The frequency of cross-sucking directed toward sensitive body areas (e.g., navel, scrotum, and udder base) in calves from the Open-WT raises questions about body part preferences for this behaviour and its relation to oral behavioural needs of calves. This behavioural pattern not only reflects potential underlying sucking motivation but also raises concerns about its implications for calf health and welfare. Health issues associated with cross-sucking include risks of navel inflammation, hairball formation, and, later in life, udder damage and increased susceptibility to mastitis contamination [@lalande_note_1979; @mahmoud_impacts_2016; @spinka_suckling_1992]. Adopting practices such as the use of a nipple feeder and increasing the amount of milk (\>10L per day) are efficient in reducing cross-sucking and have no adverse effects on udder health [@vaughan_reciprocated_2016]. Given the potential welfare and health implications, producers can mitigate the risks associated with cross-sucking by adopting strategies that stimulate natural sucking behaviour.
+
+The water delivery method did not affect the diurnal behaviour of calves during the experimental period. Calves in both water delivery methods began to graze together in the 5^th^ week and increased the performance of this behaviour over the weeks. Calves with access to pasture begin grazing within the first weeks of life [@tedeschi_predicting_2009], as the forage intake is a highly motivated natural behaviour. Under natural conditions, pasture plays an important role in the development of the rumen microbiota [@bryant_observations_1960], fosters gut development, and stimulates rumination behaviour [@phillips_effects_2004; @xiao_review_2020]. Our study was conducted in a highly stimulating environment with pasture access and social contact, both of which support activity and natural behaviours in calves [@donadio_meta-analysis_2024; @whalin_preweaning_2022], our results shows that the addition of a nipple water trough specifically addressed the calves' sucking motivation.
+
+There was no difference in the feed intake behaviour and growth of the calves between the water delivery methods, indicating that the provision of a nipple water trough supported the expected growth and met the calves' water intake needs. Water and feed intake are directly related [@thickett_management_1981]; thus, reduced water access leads to decreased feeding activity, ultimately resulting in lower weight gain in calves [@jensen_invited_2021; @kertz_ad_1984]. It is already known that the water trough design can affect adult cattle preferences and water intake [@pinheiro_machado_filho_designing_2004; @teixeira_designing_2006]. However, information on the effects of different water sources for dairy calves remains scarce. This highlights the need for further research on water provision for preweaning dairy calves.
+
+## Limitations and future directions
+
+Our findings highlight that providing access to water through nipples supports the sucking need of calves throughout the day without leading to excessive water intake that could negatively impact their growth. However, some caution is required in extrapolating our findings. The first refers to the restricted milk allowance, as calves received two milk meals of 3L per day. Despite milk allowance not being a significant factor in cross-sucking frequency [@de_passille_cross-sucking_2011; @grosbacher_-farm_2018], the restricted milk intake in our study could still have contributed to the persistence of cross-sucking behaviour among calves by failing to fully satisfy the calves' nutritional needs. Secondly, given the group size of our study (3 calves/group), we cannot determine whether the provision of nipple water troughs would have the same impact in larger groups with different social dynamics. Social interactions, including competition for resources and the dynamics of social cohesion, can be intensified in larger groups [@jensen_computer-controlled_2004; @lv_effects_2021]. Further studies examining the effect of group size on calf behaviour could provide a deeper understanding of how social factors modulate water-sucking motivation and cross-sucking behaviour. Thirdly, the outdoor environment, where the calves were housed, may introduce additional complexity due to various interacting factors. Unlike indoor calf-rearing systems, outdoor environments present a dynamic and multifaceted setting where social interactions, exposure to natural elements, and opportunities for movement and exploration all influence calf behaviour [@roland_invited_2016]. Although nipple water troughs offer benefits, further research is needed to address these limitations by exploring different milk allowances, feeding schedules, social dynamics, and environmental conditions. These studies will help better understand the calf welfare by addressing sucking motivation and optimizing nipple provision systems.
+
+# Conclusion
+
+Calves with access to a nipple water trough performed a lower frequency of cross-sucking, spent longer at the water trough, and used it more during the night than during daytime, highlighting calves' need to perform sucking behaviour when motivated to do so. Nipple provision supports calves in expressing their highly motivated natural behaviours, such as sucking, emphasizing the role of the physical environment in shaping calves' oral behaviours. The water delivery method did not influence calves' water intake, diurnal behaviour and growth of pre-weaning dairy calves. Our findings shows the importance of management strategies that address calves' natural sucking needs, particularly in enriched environments that foster social interactions and behavioural development.
+
+# Acknowledgments
+
+João P. Donadio acknowledges CAPES (Coordination for the Improvement of High Education Personnel, Brazil) for the scholarship during their master's degree in the Graduate Program in Animal Science (FMVZ - Unesp -- Botucatu/SP). Maria J. Hötzel acknowledges the support from CNPq (National Council for Scientific and Technological Development, Brazil, grant n. 304968/2019-6). Also, we acknowledge the *Embrapa Pecuária Sudeste* staff for their essential support and dedication throughout this study. We thank Mirela B. de Almeida, Thaina Michelutti, Sophia A. M. Chamilette, José C. Machado, Benedito A. da Silva, and Eduardo L. Oliveira for their help during the experiment. We also thank Milkbar for their generous provision of the nipple buckets used in this study.
+
+# References
+
+::: {#refs}
+:::
+
+```{=latex}
+\newpage
+```
+
+# Supplementary materials
+
+Supplemental Table S1. Ethogram describing calves' behaviours recorded once a week during the pre-weaning period.
+
+| Behaviours | Definition |
+|------------------------------------|------------------------------------|
+| **5-min scan** |  |
+| Lying | Animal is lying on its sternum or side. The legs may be stretched or bent, and the head may be raised or resting on the body or the straw. |
+| Idle | Animal still, not engaged in any of the behaviours described above |
+| Grazing | Animals with the mouth below or at the level of the forage or grabbing forage may be stationary or moving forward. |
+| Ruminating | Animal chewing with lateral jaw movements with the head at the same level or above its body. |
+| Active | Any behaviour of the calf not specified above (e.g., eating, drinking, walking, trotting, exploring, self-grooming, or any apparent activity). |
+| **Continuously recorded** |  |
+| Eating starter | Animal with head down at the feeder with the mouth at the starter |
+| Consuming milk | Animal with the mouth at the milk feeder with neck movements indicating milk ingestion |
+| Drinking water (Open water trough) | Animal with the mouth immersed in the water, with neck movements indicating water ingestion |
+| Drinking water (Nipple water trough) | Animal with the mouth at the nipple water-trough, with neck movements indicating water ingestion |
+| Cross-sucking | Animal is sucking the head or any body part of another calf. The other calf's body part is in the mouth of the focal calf, typically ears, navel, scrotum, or udder base. |
+
+![Supplemental Figure S1. Proportion of cross-sucking events (%) of each calf (n=21) as executor and receiver under different water delivery methods (Open Water Trough (Open-WT) or Nipple Water Trough (Nipple-WT)).](C:/Users/Donadio/Documents/nipple-troughs-calf/figures/supplemental_figure_S1.png)
