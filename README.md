@@ -10,7 +10,7 @@ This research, conducted during my Master's degree, evaluated how nipple water t
 Key findings include:  
 - **42% reduction in cross-sucking** in calves with nipple access vs. open troughs (*p* = 0.003).  
 - **No negative impact on growth** (weaning weights: *p* = 0.788).  
-- Behavioral shifts: Longer water trough visits and nighttime water intake in nipple-equipped calves.  
+- Behavioral shifts: Longer water trough visits and nighttime water intake in groups of calves with nipple water troughs.  
 
 **Manuscript Status**: Under review at *Applied Animal Behaviour Science*.  
 
@@ -19,7 +19,7 @@ Key findings include:
 ## 🗂️ Repository Structure 
 nipple-troughs-calf-welfare/
 
-├── data/                 # Field collected data
+├── data/                 # Field collected + processed data
 
 ├── scripts/    
 
