@@ -1,89 +1,12 @@
-# 🐄 Nipple-Troughs Calf Welfare Analysis
-*Statistical Pipeline for Water Delivery Method Study*
-
----
-
 ## 📂 **SCRIPTS DIRECTORY STRUCTURE**
 scripts/
-├── 00_config.R          # 🏁 Bootstrap project
-├── 01_data_cleaning.R   # 🧹 Data wrangling
+├── 00_config.R          
+├── 01_data_cleaning.R   
 ├── 02_climate_analysis.R
 ├── 03_growth_analysis.R
 ├── 04_behavior_analysis.R
 ├── 05_water_analysis.R
 ├── 06_feed_analysis.R
-├── 07_cross_sucking_analysis.R
-└── 08_visualization.R   # 📊 Master plots
-🔥 CORE FEATURES
-00_config.R ⚙️
-The project backbone
-▸ Installs/Loads all packages
-▸ Sets global options:
+└── 07_cross_sucking_analysis.R
 
-r
-options(contrasts = c("contr.sum", "contr.poly"))  # Type III SS
-▸ Custom ggplot theme:
 
-r
-theme_custom <- function() {
-  theme_minimal(base_size = 12) +
-  theme(panel.grid.minor = element_blank()) 
-}
-01_data_cleaning.R 🧼
-Data standardization pipeline
-✔ Filters excluded calves (ID: 1442, 35, 1449)
-✔ Recodes treatments:
-
-r
-mutate(Treatment = recode(Treatment, 
-                         "Bico" = "Nipple-WT",
-                         "Controle" = "Open-WT"))
-✔ Output: cleaned_data.rds
-
-📈 ANALYSIS TEMPLATE
-All analysis scripts (02-07) follow:
-
-📋 Descriptive Stats
-
-r
-df %>% 
-  group_by(Treatment) %>% 
-  summarise(Mean = mean(Weight), 
-            SD = sd(Weight),
-            CV = (SD/Mean)*100)
-🔍 Assumption Checks
-
-r
-# Normality
-shapiro.test(df$Weight)
-# Homogeneity
-leveneTest(Weight ~ Treatment, data = df)
-🤖 Modeling
-
-r
-lmer(Weight ~ Treatment + (1|id), data = df)
-💾 Output
-Saves to output/[analysis]_results.rds
-
-🎨 08_visualization.R
-Centralized plotting control
-
-r
-# Treatment effect plot
-plot_treatment <- function(data) {
-  ggplot(data, aes(Treatment, Weight)) + 
-    geom_boxplot(aes(fill = Treatment)) +
-    scale_fill_manual(values = treatment_palette)
-}
-🚀 QUICKSTART
-r
-# Run full pipeline
-source("scripts/00_config.R")
-source("scripts/01_data_cleaning.R")
-source("scripts/03_growth_analysis.R")  # Example analysis
-
-📌 KEY OUTPUTS
-output/
-├── models/       # 🧠 Analysis results (.rds)
-├── plots/        # 🖼️  Publication figures (.png/.pdf)
-└── tables/       # 📜 Formatted stats (.docx)
