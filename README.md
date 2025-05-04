@@ -27,15 +27,7 @@ nipple-troughs-calf-welfare/
 
 ├── LICENSE               # MIT License
 
-├── README.md
-
-├── Highlights_dashboard.Rmd
-
-├── Manuscript.qmd
-
-├── Manuscript.pdf
-
-└── references1.bib
+└── README.md
 
 ---
 
