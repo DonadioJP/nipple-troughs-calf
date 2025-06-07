@@ -12,7 +12,7 @@ Key findings include:
 - **No negative impact on growth** (weaning weights: *p* = 0.788).  
 - Behavioral shifts: Longer water trough visits and nighttime water intake in groups of calves with nipple water troughs.  
 
-**Manuscript Status**: Under review at *Applied Animal Behaviour Science*.  
+**Manuscript Status**: https://doi.org/10.1016/j.applanim.2025.106684  
 
 ---
 
